@@ -1,0 +1,19 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "Simple JavaScript app that will return a linear background generator that can be copied from the HTML on-screen output",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sandsy09/background-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sandsy09/background-generator/issues"
+  },
+  "homepage": "https://github.com/Sandsy09/background-generator#readme"
+}
